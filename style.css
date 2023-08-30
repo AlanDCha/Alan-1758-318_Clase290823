@@ -1,0 +1,30 @@
+h1 {
+  border: 1px solid red;
+  padding-left: 22px;
+  padding-top: 2px;
+  padding-bottom: 10px;
+}
+
+p {
+  border: 1px solid green;
+  margin-left: 25px;
+  margin-top: 35px;
+  margin-bottom: 10px;
+
+  padding-left: 15px;
+}
+
+.raro {
+  width: 5em;
+  height: 12em;
+}
+
+.modificado {
+  width: 200px;
+  height: 160px;
+}
+
+
+.ajustado {
+  width: 100px;
+}
